@@ -10,6 +10,6 @@ var constants = require('./lib/zlib/constants');
 
 var pako = {};
 
-assign(pako, deflate, inflate, constants);
+assign(pako, deflate, inflate, inflateAsync, constants);
 
 module.exports = pako;
