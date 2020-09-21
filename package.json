@@ -1,6 +1,6 @@
 {
-  "name": "pako",
-  "description": "zlib port to javascript - fast, modularized, with browser support",
+  "name": "@aftersim/pako",
+  "description": "async zlib port to javascript - fast, modularized, with browser support",
   "version": "1.0.11",
   "keywords": [
     "zlib",
@@ -8,8 +8,9 @@
     "inflate",
     "gzip"
   ],
-  "homepage": "https://github.com/nodeca/pako",
+  "homepage": "https://github.com/aftersim/pako",
   "contributors": [
+    "Billy Charlton (https://github.com/billyc)",
     "Andrei Tuputcyn (https://github.com/andr83)",
     "Vitaly Puzrin (https://github.com/puzrin)",
     "Friedel Ziegelmayer (https://github.com/dignifiedquire)",
@@ -23,7 +24,7 @@
     "lib/"
   ],
   "license": "(MIT AND Zlib)",
-  "repository": "nodeca/pako",
+  "repository": "aftersim/pako",
   "scripts": {
     "test": "make test"
   },
