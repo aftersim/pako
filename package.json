@@ -1,7 +1,7 @@
 {
   "name": "@aftersim/pako",
   "description": "async zlib port to javascript - fast, modularized, with browser support",
-  "version": "1.0.11-2",
+  "version": "1.0.11-3",
   "keywords": [
     "zlib",
     "deflate",
@@ -10,13 +10,13 @@
   ],
   "homepage": "https://github.com/aftersim/pako",
   "contributors": [
-    "Billy Charlton (https://github.com/billyc)",
     "Andrei Tuputcyn (https://github.com/andr83)",
     "Vitaly Puzrin (https://github.com/puzrin)",
     "Friedel Ziegelmayer (https://github.com/dignifiedquire)",
     "Kirill Efimov (https://github.com/Kirill89)",
     "Jean-loup Gailly",
-    "Mark Adler"
+    "Mark Adler",
+    "Billy Charlton (https://github.com/billyc)"
   ],
   "files": [
     "index.js",

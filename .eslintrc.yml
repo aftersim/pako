@@ -2,7 +2,7 @@ env:
   node:     true
 
 parserOptions:
-  ecmaVersion: 5
+  ecmaVersion: 6
 
 globals:
   Uint8Array:  false
