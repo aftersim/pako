@@ -5,6 +5,7 @@ var assign    = require('./lib/utils/common').assign;
 
 var deflate   = require('./lib/deflate');
 var inflate   = require('./lib/inflate');
+var inflateAsync = require('./lib/inflateAsync');
 var constants = require('./lib/zlib/constants');
 
 var pako = {};
